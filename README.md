@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zés GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlos78&show_icons=true&theme=radical)
+![Zés GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlos78&show_icons=true&theme=algolia)
 
 
 <!--
