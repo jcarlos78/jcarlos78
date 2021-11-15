@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcarlos78" alt="jcarlos78" /></a> </p> -->
 
-- 🔭 I’m currently working on [OmegaEnergia](http://omegaenergia.com.br/)
+- 🔭 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
 
 - 🌱 I’m currently learning **Event Hub Services**
 
