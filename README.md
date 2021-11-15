@@ -10,15 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcarlos78" alt="jcarlos78" /></a> </p> -->
 
-- 🔭 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
-
-- 🌱 I’m currently learning **Event Hub Services**
-
-- 👯 I’m looking to collaborate on [Ethereum blockchain based projects](https://ethereum.org/en/)
-
-- 🤝 I’m looking for help with [LabDevs.ninja](http://labdevs.ninja/)
-
-- 💬 Ask me about **java, aws, microservice, oop, node.js, python**
+- 🌱💡🚀 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
