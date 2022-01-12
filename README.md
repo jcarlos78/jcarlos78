@@ -4,13 +4,11 @@
  -->
 
 <h1 align="center">Hi 👋, I'm José Carlos Menezes</h1>
-<h3 align="center">I'm a hands on learn by doing and love to code type of person!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarlos78&label=Profile%20views&color=0e75b6&style=flat" alt="jcarlos78" /> </p>
+<h3 align="center">a hands on learn by doing and love to code type of person!</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcarlos78" alt="jcarlos78" /></a> </p> -->
 
-- 🌱💡🚀 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
+🌱💡🚀 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
