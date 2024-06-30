@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Carlos Menezes</h1>
 <h3 align="center">hands on learn by doing and love to code type of person!</h3>
 <p align="center">
-🌱💡🚀 I’m currently working @ [OmegaEnergia](http://omegaenergia.com.br/)
+🌱💡🚀 I’m currently working @ [Serena Energia](http://srna.co/)
 </p>
 
 <div align="center">
