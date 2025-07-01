@@ -1,14 +1,12 @@
-# 👋 Olá! Eu sou o Zé Menezes
-
-🎯 **Head de Cibersegurança | Tech Leader | Empreendedor Social**  
-🚀 Fundador da [Kensei CyberSec Lab](https://github.com/Kensei-CyberSec-Lab) | Educador na [Vai na Web](https://vainaweb.com.br)  
-🌍 Apaixonado por tecnologia com impacto, cultura hacker do bem e projetos que transformam vidas.
+<h1 align="center"><span style="color:#39FF14;font-weight:bold;">ZÉ MENEZES</span></h1>
+<h3 align="center"><span style="color:#FF00FF;">Head de Cibersegurança · Tech Leader · Educador · CISSP</span></h3>
+<p align="center">Fundador da <a href="https://github.com/Kensei-CyberSec-Lab" style="color:#00FFFF;">Kensei CyberSec Lab</a> · Educador na <a href="https://vainaweb.com.br" style="color:#FF00FF;">Vai na Web</a></p>
 
 ---
 
 ## 🛡️ Stack de Segurança e Cloud
 
-**🔐 Segurança da Informação:**
+**Segurança da Informação:**
 
 ![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-2E8B57?style=flat&logo=skillshare&logoColor=white)
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=flat&logo=microsoft&logoColor=white)
@@ -19,7 +17,7 @@
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**☁️ Cloud & Infraestrutura:**
+**Cloud & Infraestrutura:**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -43,23 +41,31 @@
 
 ## ⚙️ Projetos em Destaque
 
-- 🔭 **[OpenCSF](https://github.com/Kensei-CyberSec-Lab/OpenCSF)** – Plataforma open source para avaliação de maturidade em cibersegurança baseada no NIST CSF 2.0  
-- 🎮 **Hacking Games** – Eventos com desafios CTF e monitoramento com Wazuh em tempo real  
-- 🌐 **Kensei + Vai na Web** – Fusão de impacto para formar a próxima geração de talentos em segurança digital  
-- 🛶 **Mahalo Pono VA'A / Vivaa** – Projeto ecológico e social de canoa havaiana com foco em inclusão e sustentabilidade  
+**[OpenCSF](https://github.com/Kensei-CyberSec-Lab/OpenCSF)**  
+Plataforma open source para avaliação de maturidade em cibersegurança baseada no NIST CSF 2.0
+
+**Hacking Games**  
+Eventos de CTF com labs e monitoramento em tempo real via Wazuh
+
+**Kensei + Vai na Web**  
+Formação e inclusão de talentos em segurança digital com impacto social
+
+**Mahalo Pono VA'A / Vivaa**  
+Projeto de canoagem com foco em ecologia, inclusão e geração de renda
 
 ---
 
-## 📚 Explorando agora
+## 📚 Explorando Agora
 
-- 🔐 AI aplicada à segurança (Detecção de ameaças com IA e automação de SOC)  
-- ☁️ Cloud Security com foco em Resiliência e Redução de Custos  
-- 🧪 Formação de hackers éticos com labs práticos via Docker  
-- ⚙️ SaaS de cibersegurança open source e acessível  
+- AI + Segurança: detecção de ameaças com automação inteligente  
+- Cloud Security: foco em resiliência e governança multicloud  
+- Formação hacker ética com labs reais (Docker + Linux)  
+- Produtos open source para PMEs e impacto social
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 📬 Conecte-se
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jcarlos78)
-- ☁️ Aberto a colaborações, mentorias e projetos de impacto!
+[LinkedIn](https://www.linkedin.com/in/jcarlos78)  
+
+> _"Segurança é clareza. É entender o que você protege — e por quê."_
