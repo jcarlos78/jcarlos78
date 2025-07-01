@@ -62,9 +62,4 @@
 ## 🤝 Vamos nos conectar?
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jcarlos78)
-- 📬 contato [at] kensei [dot] seg [dot] br  
 - ☁️ Aberto a colaborações, mentorias e projetos de impacto!
-
----
-
-💡 *"Segurança, pra mim, é proteger o presente enquanto abrimos caminhos seguros pro futuro."*
