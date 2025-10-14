@@ -1,10 +1,9 @@
 <h1 align="center"><span style="color:#39FF14;font-weight:bold;">ZÉ MENEZES</span></h1>
-<h3 align="center"><span style="color:#FF00FF;">Head de Cibersegurança · Tech Leader · Educador · CISSP</span></h3>
 <p align="center">Fundador da <a href="https://github.com/Kensei-CyberSec-Lab" style="color:#00FFFF;">Kensei CyberSec Lab</a> · Educador na <a href="https://vainaweb.com.br" style="color:#FF00FF;">Vai na Web</a></p>
 
 ---
 
-## 🛡️ Stack de Segurança e Cloud
+## Stack de Segurança e Cloud
 
 **Segurança da Informação:**
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 💻 Desenvolvimento
+## Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -39,7 +38,7 @@
 
 ---
 
-## ⚙️ Projetos em Destaque
+## Projetos em Destaque
 
 **[OpenCSF](https://github.com/Kensei-CyberSec-Lab/OpenCSF)**  
 Plataforma open source para avaliação de maturidade em cibersegurança baseada no NIST CSF 2.0
@@ -55,17 +54,6 @@ Projeto de canoagem com foco em ecologia, inclusão e geração de renda
 
 ---
 
-## 📚 Explorando Agora
-
-- AI + Segurança: detecção de ameaças com automação inteligente  
-- Cloud Security: foco em resiliência e governança multicloud  
-- Formação hacker ética com labs reais (Docker + Linux)  
-- Produtos open source para PMEs e impacto social
-
----
-
-## 📬 Conecte-se
-
 [LinkedIn](https://www.linkedin.com/in/jcarlos78)  
 
-> _"Segurança é clareza. É entender o que você protege — e por quê."_
+> _"Hack the System but leve somthing beter."_
