@@ -39,22 +39,6 @@
 
 ---
 
-## Featured Projects
-
-**[OpenCSF](https://github.com/Kensei-CyberSec-Lab/OpenCSF)**  
-Open-source platform for cybersecurity maturity assessment based on NIST CSF 2.0
-
-**Hacking Games**  
-CTF events with labs and real-time monitoring via Wazuh
-
-**Kensei + Vai na Web**  
-Training and inclusion of digital security talent with social impact
-
-**Mahalo Pono VA'A / Vivaa**  
-Canoeing project focused on ecology, inclusion, and income generation
-
----
-
 [LinkedIn](https://www.linkedin.com/in/jcarlos78)  
 
 > _"Hack the system, but leave something better."_
