@@ -1,5 +1,6 @@
 <h1 align="center"><span style="color:#39FF14;font-weight:bold;">ZÉ MENEZES</span></h1>
-<p align="center">Founder of <a href="https://github.com/Kensei-CyberSec-Lab" style="color:#00FFFF;">Kensei CyberSec Lab</a> · Educator at <a href="https://vainaweb.com.br" style="color:#FF00FF;">Vai na Web</a></p>
+<p align="center">Founder of <a href="https://github.com/Kensei-CyberSec-Lab" style="color:#00FFFF;">Kensei CyberSec Lab</a>
+· Senior Technology Specialist, Applied Research @ <a href="https://www.puc-rio.br">PUC-Rio</a>
 
 ---
 
